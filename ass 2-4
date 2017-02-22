@@ -1,0 +1,15 @@
+Hadoop in layman's term is defined as the splitting a job across dozens or hundreds of computers 
+so they can share the load and get the job done faster.
+
+
+2).components of hadoop framework are listed as:-
+a)HDFS-It stands for hadoop distributed file system which stores diffents kinds of data.
+b).Map reduce- This is used for processing the data.
+c). YARN – It is the resource management framework used for scheduling and handling resource requests from distributed applications.
+
+
+
+3).Reasons to learn big data technologies are:-
+a).Use of enormous data from mails,mobile,applications,media etc. has mandated the professionals to process bigdata and store the data.
+b).Trending job demand with highest package.
+c)skill development.
